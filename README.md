@@ -45,9 +45,10 @@ The training pipeline is built on **GRPO-style reinforcement learning**, integra
 
 ### 📊 Evaluation
 
-We evaluate empathetic performance using **EQ-Bench3**, a widely adopted benchmark for emotional intelligence and empathy in LLMs.
+We mainly evaluate empathetic performance using **EQ-Bench3**, a widely adopted benchmark for emotional intelligence and empathy in LLMs.
 
 Please refer to the official repository for setup and evaluation details:
 👉 [EQ-Bench3](https://github.com/EQ-bench/eqbench3)
+
 
 
