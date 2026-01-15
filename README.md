@@ -36,7 +36,7 @@ To fine-tune a base LLM with the PERM framework:
 
 ```bash
 cd perm
-bash grpo.sh
+bash grpo_train.sh
 ```
 
 The training pipeline is built on **GRPO-style reinforcement learning**, integrating multi-perspective empathy rewards to guide policy optimization.
@@ -49,4 +49,5 @@ We evaluate empathetic performance using **EQ-Bench3**, a widely adopted benchma
 
 Please refer to the official repository for setup and evaluation details:
 👉 [EQ-Bench3](https://github.com/EQ-bench/eqbench3)
+
 
