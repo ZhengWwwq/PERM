@@ -31,7 +31,7 @@ pip install -r requirements.txt
 
 To fine-tune a base LLM with the PERM framework:
 
-1. Configure the training hyperparameters in `perm/grpo.sh`.
+1. Configure the training hyperparameters in `perm/grpo_train.sh`.
 2. Launch training with:
 
 ```bash
@@ -49,6 +49,7 @@ We mainly evaluate empathetic performance using **EQ-Bench3**, a widely adopted 
 
 Please refer to the official repository for setup and evaluation details:
 👉 [EQ-Bench3](https://github.com/EQ-bench/eqbench3)
+
 
 
 
