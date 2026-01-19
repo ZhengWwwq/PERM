@@ -1,7 +1,7 @@
 # PERM: Psychology-grounded Empathetic Reward Modeling for Large Language Models
 
 [![Datasets & Models](https://img.shields.io/badge/Datasets_&_Models-HuggingFace-yellow?style=plastic&logo=Hugging%20Face)](https://huggingface.co/Zwwwwwq/PERM-Qwen2.5-7B-Instruct)
-[![Paper](https://img.shields.io/badge/Paper-arXiv-red?style=plastic&logo=arxiv)](https://arxiv.org/)
+[![Paper](https://img.shields.io/badge/Paper-arXiv-red?style=plastic&logo=arxiv)](https://arxiv.org/abs/2601.10532)
 
 ------
 
@@ -49,6 +49,7 @@ We mainly evaluate empathetic performance using **EQ-Bench3**, a widely adopted 
 
 Please refer to the official repository for setup and evaluation details:
 👉 [EQ-Bench3](https://github.com/EQ-bench/eqbench3)
+
 
 
 
