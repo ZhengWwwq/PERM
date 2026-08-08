@@ -14,6 +14,7 @@ CUDA_VISIBLE_DEVICES=0,1,2,3 accelerate launch --config_file deepspeed_zero3.yam
     --peft_r 16 \
     --peft_alpha 32 \
     --peft_dropout 0.1 \
+    --use_lora \
     --per_device_train_batch_size 4 \
     --gradient_accumulation_steps 4 \
     --warmup_ratio 0.1 \
